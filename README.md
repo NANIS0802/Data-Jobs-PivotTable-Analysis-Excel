@@ -1,4 +1,4 @@
-# 📈 Data Jobs Market, Salary & Trend Analysis 
+# 📈 Data Jobs Market, Salary & Trend Analysis (2023)
 
 ![Top Paying Jobs](assets/top_paying_jobs.png)
 
@@ -25,7 +25,7 @@ This project analyzes **24,110 data-related job postings** across April–Decemb
 * **Data Visualization:** Created Column Charts comparing average salaries and role share, alongside a Line Chart with a trendline tracking monthly job volume.
 
 ## 🔍 Key Insights
-* **Highest Paying Roles:** **Senior Data Scientist** (~$154.1k average) and **Senior Data Engineer** (~$146.0k average) lead compensation, followed by **Data Scientist** (~$135.8k) and **Data Engineer** (~$130.1k), while **Data Analyst** (~$93.8k) and **Business Analyst** (~$91.2k) sit near the entry/core analyst tier.
+* **Highest Paying Roles:** **Senior Data Scientist** ($154.1k average) and **Senior Data Engineer** ($146.0k average) lead compensation, followed by **Data Scientist** ($135.8k) and **Data Engineer** ($130.1k), while **Data Analyst** ($93.8k) and **Business Analyst** ($91.2k) sit near the entry/core analyst tier.
 * **Demand Concentration:** **Data Nerds** account for **76.28%** of total listings—led by **Data Analyst (29.68%)**, **Data Scientist (26.08%)**, and **Data Engineer (20.51%)**—while **Senior Data Nerds** represent **16.39%** and **Other Data Nerds** make up **7.33%**.
 * **2023 Hiring Trend:** Across `24,110` postings from April to December 2023, hiring peaked in **August (3,554)** and **June (3,234)** before tapering off toward **November (1,963)** and **December (2,049)**.
 
